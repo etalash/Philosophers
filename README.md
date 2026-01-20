@@ -1,4 +1,4 @@
-![Philosophers – Dining Table Simulation](philo's image.png)
+![Philosophers – Dining Table Simulation](philo_image.png)
 
 # Philosophers – 42 School Project
 
