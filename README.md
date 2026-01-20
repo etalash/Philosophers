@@ -42,12 +42,6 @@ make
 
 ---
 
-## Contributors
-
-* @yourusername – 42 School
-
----
-
 ## Languages
 
 * C — 92.9%
